@@ -52,7 +52,7 @@
         <div class="card h-100" style="color: #fff; background-color: #F44336;">
           <div class="card-header">
             <i class="fa fa-pie-chart" aria-hidden="true"></i>
-            Persentase Penduduk Bekerja Berdasarkan Tahun
+            Persentase Penduduk Bekerja Berdasarkan Kategori
           </div>
           <div class="card-body">
             <pp-bekerja-pie-02></pp-bekerja-pie-02>
@@ -63,7 +63,7 @@
         <div class="card text-white bg-dark h-100">
           <div class="card-header">
             <i class="fa fa-bar-chart" aria-hidden="true"></i>
-            Persentase Penduduk Bekerja Berdasarkan Tahun
+            Persentase Penduduk Bekerja Berdasarkan Kategori
           </div>
           <div class="card-body">
             <pp-bekerja-bar-02></pp-bekerja-bar-02>
