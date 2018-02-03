@@ -1,6 +1,6 @@
 {
     "name": "bantenprov/persentase-penduduk-bekerja",
-    "description": "Angka parisipasi kasar (APK)",
+    "description": "Persentase Penduduk yang Bekerja",
     "type": "library",
     "homepage": "https://github.com/bantenprov/persentase-penduduk-bekerja",
     "authors": [

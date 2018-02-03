@@ -11,6 +11,6 @@ class PPBekerja
 {
     public function welcome()
     {
-        return 'Welcome to Bantenprov\persentase-penduduk-bekerja package';
+        return 'Welcome to Bantenprov\PPBekerja package';
     }
 }
