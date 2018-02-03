@@ -9,7 +9,5 @@
         <router-view></router-view>
       </div><!-- /col -->
     </div><!-- /.row -->
-
-    
   </div>
 </template>
