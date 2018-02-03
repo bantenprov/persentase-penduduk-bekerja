@@ -1,10 +1,12 @@
 [
   {
     "xAxis": {
-      "category": "SD/MI/Paket A",
+      "category": "Angkatan Kerja",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
+        "2012",
+        "2013",
         "2014",
         "2015",
         "2016"
@@ -13,19 +15,23 @@
     "series": [
       {
         "data": [
-          120,
-          200,
-          150
+          5.18,
+          5.18,
+          5.34,
+          5.33,
+          5.59
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "SD/MI/Paket A",
+      "category": "Angkatan Kerja",
       "region": "Negara",
       "name": "Indonesia",
       "data": [
+        "2012",
+        "2013",
         "2014",
         "2015",
         "2016"
@@ -34,19 +40,23 @@
     "series": [
       {
         "data": [
-          300,
-          450,
-          750
+          119.85,
+          120.17,
+          121.87,
+          122.38,
+          125.44         
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "SMP/MTS/Paket B",
+      "category": "Penduduk yang Bekerja",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
+        "2012",
+        "2013",
         "2014",
         "2015",
         "2016"
@@ -55,19 +65,23 @@
     "series": [
       {
         "data": [
-          220,
-          270,
-          350
+          4.66,
+          4.69,
+          4.86,
+          4.83,
+          5.09          
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "SMP/MTS/Paket B",
+      "category": "Penduduk yang Bekerja",
       "region": "Negara",
       "name": "Indonesia",
       "data": [
+        "2012",
+        "2013",
         "2014",
         "2015",
         "2016"
@@ -76,51 +90,11 @@
     "series": [
       {
         "data": [
-          380,
-          510,
-          690
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMA/SMK/Paket C",
-      "region": "Provinsi",
-      "name": "Banten",
-      "data": [
-        "2014",
-        "2015",
-        "2016"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          120,
-          270,
-          450
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "SMA/SMK/Paket C",
-      "region": "Negara",
-      "name": "Indonesia",
-      "data": [
-        "2014",
-        "2015",
-        "2016"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          680,
-          710,
-          1990
+          112.5,
+          112.76,
+          114.63,
+          114.82,
+          118.41         
         ]
       }
     ]
