@@ -1,0 +1,200 @@
+[
+  {
+    "xAxis": {
+      "category": "Persentase Penduduk yang Bekerja",
+      "type": "category",
+      "region": "Provinsi Banten",
+      "name": "Angkatan Kerja-2013"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":470470,"name":"kab/Pandeglang"},
+          {"value":574909,"name":"kab/Lebak"},
+          {"value":1459789,"name":"kab/Tangerang"},
+          {"value":594837,"name":"kab/Serang"},
+          {"value":986960,"name":"kota/Tangerang"},
+          {"value":171640,"name":"kota/Cilegon"},
+          {"value":267178,"name":"kota/Serang"},
+          {"value":656013,"name":"kota/Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Persentase Penduduk yang Bekerja",
+      "type": "category",
+      "region": "Provinsi Banten",
+      "name": "Penduduk Yang Bekerja-2013"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":415435,"name":"kab/Pandeglang"},
+          {"value":535670,"name":"kab/Lebak"},
+          {"value":1291209,"name":"kab/Tangerang"},
+          {"value":516420,"name":"kab/Serang"},
+          {"value":904212,"name":"kota/Tangerang"},
+          {"value":159638,"name":"kota/Cilegon"},
+          {"value":238097,"name":"kota/Serang"},
+          {"value":626945,"name":"kota/Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Persentase Penduduk yang Bekerja",
+      "type": "category",
+      "region": "Provinsi Banten",
+      "name": "TKK-2013"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":88.30,"name":"kab/Pandeglang"},
+          {"value":93.17,"name":"kab/Lebak"},
+          {"value":88.45,"name":"kab/Tangerang"},
+          {"value":86.82,"name":"kab/Serang"},
+          {"value":91.62,"name":"kota/Tangerang"},
+          {"value":93.01,"name":"kota/Cilegon"},
+          {"value":89.12,"name":"kota/Serang"},
+          {"value":95.57,"name":"kota/Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Persentase Penduduk yang Bekerja",
+      "type": "category",
+      "region": "Provinsi Banten",
+      "name": "Angkatan Kerja-2014"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":468502,"name":"kab/Pandeglang"},
+          {"value":614548,"name":"kab/Lebak"},
+          {"value":1467353,"name":"kab/Tangerang"},
+          {"value":622428,"name":"kab/Serang"},
+          {"value":1001174,"name":"kota/Tangerang"},
+          {"value":185307,"name":"kota/Cilegon"},
+          {"value":273412,"name":"kota/Serang"},
+          {"value":705321,"name":"kota/Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Persentase Penduduk yang Bekerja",
+      "type": "category",
+      "region": "Provinsi Banten",
+      "name": "Penduduk Yang Bekerja-2014"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":435552,"name":"kab/Pandeglang"},
+          {"value":555725,"name":"kab/Lebak"},
+          {"value":1343329,"name":"kab/Tangerang"},
+          {"value":530551,"name":"kab/Serang"},
+          {"value":922981,"name":"kota/Tangerang"},
+          {"value":163380,"name":"kota/Cilegon"},
+          {"value":245976,"name":"kota/Serang"},
+          {"value":656498,"name":"kota/Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Persentase Penduduk yang Bekerja",
+      "type": "category",
+      "region": "Provinsi Banten",
+      "name": "TKK-2014"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":92.97,"name":"kab/Pandeglang"},
+          {"value":90.43,"name":"kab/Lebak"},
+          {"value":91.55,"name":"kab/Tangerang"},
+          {"value":85.24,"name":"kab/Serang"},
+          {"value":92.19,"name":"kota/Tangerang"},
+          {"value":88.17,"name":"kota/Cilegon"},
+          {"value":89.97,"name":"kota/Serang"},
+          {"value":93.08,"name":"kota/Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Persentase Penduduk yang Bekerja",
+      "type": "category",
+      "region": "Provinsi Banten",
+      "name": "Angkatan Kerja-2015"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":491031,"name":"kab/Pandeglang"},
+          {"value":560384,"name":"kab/Lebak"},
+          {"value":1513501,"name":"kab/Tangerang"},
+          {"value":620527,"name":"kab/Serang"},
+          {"value":992091,"name":"kota/Tangerang"},
+          {"value":186664,"name":"kota/Cilegon"},
+          {"value":284893,"name":"kota/Serang"},
+          {"value":685752,"name":"kota/Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Persentase Penduduk yang Bekerja",
+      "type": "category",
+      "region": "Provinsi Banten",
+      "name": "Penduduk Yang Bekerja-2015"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":440839,"name":"kab/Pandeglang"},
+          {"value":500175,"name":"kab/Lebak"},
+          {"value":1377224,"name":"kab/Tangerang"},
+          {"value":528683,"name":"kab/Serang"},
+          {"value":912723,"name":"kota/Tangerang"},
+          {"value":164261,"name":"kota/Cilegon"},
+          {"value":257861,"name":"kota/Serang"},
+          {"value":643694,"name":"kota/Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "category": "Persentase Penduduk yang Bekerja",
+      "type": "category",
+      "region": "Provinsi Banten",
+      "name": "TKK-2015"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":89.78,"name":"kab/Pandeglang"},
+          {"value":89.26,"name":"kab/Lebak"},
+          {"value":91.00,"name":"kab/Tangerang"},
+          {"value":85.20,"name":"kab/Serang"},
+          {"value":92.00,"name":"kota/Tangerang"},
+          {"value":88.00,"name":"kota/Cilegon"},
+          {"value":90.51,"name":"kota/Serang"},
+          {"value":93.87,"name":"kota/Tangerang Selatan"}
+        ]
+      }
+    ]
+  }
+]
