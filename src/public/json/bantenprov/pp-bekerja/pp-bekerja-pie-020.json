@@ -5,13 +5,19 @@
       "region": "Provinsi",
       "name": "Banten",
       "yyyy": "2012",
-      "index": "Banten-2012"
+      "title": "Angkatan Kerja Provinsi Banten Agustus 2013"
     },
     "series": [
       {
         "data": [
-          {"value":5.18,"name":"Angkatan Kerja"},
-          {"value":4.66,"name":"Penduduk yang Bekerja"}
+          {"value":470470,"name":"Kabupaten Pandeglang"},
+          {"value":574909,"name":"Kabupaten Lebak"},
+          {"value":1459789,"name":"Kabupaten Tangerang"},
+          {"value":594837,"name":"Kabupaten Serang"},
+          {"value":986960,"name":"Kota Tangerang"},
+          {"value":171640,"name":"Kota Cilegon"},
+          {"value":267178,"name":"Kota Serang"},
+          {"value":656013,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]
@@ -21,82 +27,20 @@
       "type": "category",
       "region": "Provinsi",
       "name": "Banten",
-      "yyyy": "2013",
-      "index": "Banten-2013"
-    },
-    "series": [
-      {
-        "data": [
-          {"value":5.18,"name":"Angkatan Kerja"},
-          {"value":4.69,"name":"Penduduk yang Bekerja"}
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2014",
-      "index": "Banten-2014"
-    },
-    "series": [
-      {
-        "data": [
-          {"value":5.34,"name":"Angkatan Kerja"},
-          {"value":4.86,"name":"Penduduk yang Bekerja"}
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2015",
-      "index": "Banten-2015"
-    },
-    "series": [
-      {
-        "data": [
-          {"value":5.33,"name":"Angkatan Kerja"},
-          {"value":4.83,"name":"Penduduk yang Bekerja"}
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Provinsi",
-      "name": "Banten",
-      "yyyy": "2016",
-      "index": "Banten-2016"
-    },
-    "series": [
-      {
-        "data": [
-          {"value":5.59,"name":"Angkatan Kerja"},
-          {"value":5.09,"name":"Penduduk yang Bekerja"}
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "type": "category",
-      "region": "Negara",
-      "name": "Indonesia",
       "yyyy": "2012",
-      "index": "Indonesia-2012"
+      "title": "Penduduk Yang Bekerja Provinsi Banten Agustus 2013"
     },
     "series": [
       {
         "data": [
-          {"value":119.85,"name":"Angkatan Kerja"},
-          {"value":112.5,"name":"Penduduk yang Bekerja"}
+          {"value":415435,"name":"Kabupaten Pandeglang"},
+          {"value":535670,"name":"Kabupaten Lebak"},
+          {"value":1291209,"name":"Kabupaten Tangerang"},
+          {"value":516420,"name":"Kabupaten Serang"},
+          {"value":904212,"name":"Kota Tangerang"},
+          {"value":159638,"name":"Kota Cilegon"},
+          {"value":238097,"name":"Kota Serang"},
+          {"value":626945,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]
@@ -104,16 +48,22 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2013",
-      "index": "Indonesia-2013"
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2012",
+      "title": "TKK Provinsi Banten Agustus 2013"
     },
     "series": [
       {
         "data": [
-          {"value":120.17,"name":"Angkatan Kerja"},
-          {"value":112.76,"name":"Penduduk yang Bekerja"}
+          {"value":88.30,"name":"Kabupaten Pandeglang"},
+          {"value":93.17,"name":"Kabupaten Lebak"},
+          {"value":88.45,"name":"Kabupaten Tangerang"},
+          {"value":86.82,"name":"Kabupaten Serang"},
+          {"value":91.62,"name":"Kota Tangerang"},
+          {"value":93.01,"name":"Kota Cilegon"},
+          {"value":89.12,"name":"Kota Serang"},
+          {"value":95.57,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]
@@ -121,16 +71,22 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2014",
-      "index": "Indonesia-2014"
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2012",
+      "title": "Angkatan Kerja Provinsi Banten Agustus 2014"
     },
     "series": [
       {
         "data": [
-          {"value":121.87,"name":"Angkatan Kerja"},
-          {"value":114.63,"name":"Penduduk yang Bekerja"}
+          {"value":468502,"name":"Kabupaten Pandeglang"},
+          {"value":614548,"name":"Kabupaten Lebak"},
+          {"value":1467353,"name":"Kabupaten Tangerang"},
+          {"value":622428,"name":"Kabupaten Serang"},
+          {"value":1001174,"name":"Kota Tangerang"},
+          {"value":185307,"name":"Kota Cilegon"},
+          {"value":273412,"name":"Kota Serang"},
+          {"value":705321,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]
@@ -138,16 +94,22 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2015",
-      "index": "Indonesia-2015"
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2012",
+      "title": "Penduduk Yang Bekerja Provinsi Banten Agustus 2014"
     },
     "series": [
       {
         "data": [
-          {"value":122.38,"name":"Angkatan Kerja"},
-          {"value":114.82,"name":"Penduduk yang Bekerja"}
+          {"value":435552,"name":"Kabupaten Pandeglang"},
+          {"value":555725,"name":"Kabupaten Lebak"},
+          {"value":1343329,"name":"Kabupaten Tangerang"},
+          {"value":530551,"name":"Kabupaten Serang"},
+          {"value":922981,"name":"Kota Tangerang"},
+          {"value":163380,"name":"Kota Cilegon"},
+          {"value":245976,"name":"Kota Serang"},
+          {"value":656498,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]
@@ -155,16 +117,91 @@
   {
     "xAxis": {
       "type": "category",
-      "region": "Negara",
-      "name": "Indonesia",
-      "yyyy": "2016",
-      "index": "Indonesia-2016"
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2012",
+      "title": "TKK Provinsi Banten Agustus 2014"
     },
     "series": [
       {
         "data": [
-          {"value":125.44,"name":"Angkatan Kerja"},
-          {"value":118.41,"name":"Penduduk yang Bekerja"}
+          {"value":92.97,"name":"Kabupaten Pandeglang"},
+          {"value":90.43,"name":"Kabupaten Lebak"},
+          {"value":91.55,"name":"Kabupaten Tangerang"},
+          {"value":85.24,"name":"Kabupaten Serang"},
+          {"value":92.19,"name":"Kota Tangerang"},
+          {"value":88.17,"name":"Kota Cilegon"},
+          {"value":89.97,"name":"Kota Serang"},
+          {"value":93.08,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2012",
+      "title": "Angkatan Kerja Provinsi Banten Agustus 2015"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":491031,"name":"Kabupaten Pandeglang"},
+          {"value":560384,"name":"Kabupaten Lebak"},
+          {"value":1513501,"name":"Kabupaten Tangerang"},
+          {"value":620527,"name":"Kabupaten Serang"},
+          {"value":992091,"name":"Kota Tangerang"},
+          {"value":186664,"name":"Kota Cilegon"},
+          {"value":284893,"name":"Kota Serang"},
+          {"value":685752,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2012",
+      "title": "Penduduk Yang Bekerja Provinsi Banten Agustus 2015"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":440839,"name":"Kabupaten Pandeglang"},
+          {"value":500175,"name":"Kabupaten Lebak"},
+          {"value":1377224,"name":"Kabupaten Tangerang"},
+          {"value":528683,"name":"Kabupaten Serang"},
+          {"value":912723,"name":"Kota Tangerang"},
+          {"value":164261,"name":"Kota Cilegon"},
+          {"value":257861,"name":"Kota Serang"},
+          {"value":643694,"name":"Kota Tangerang Selatan"}
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "type": "category",
+      "region": "Provinsi",
+      "name": "Banten",
+      "yyyy": "2012",
+      "title": "TKK Provinsi Banten Agustus 2015"
+    },
+    "series": [
+      {
+        "data": [
+          {"value":89.78,"name":"Kabupaten Pandeglang"},
+          {"value":89.26,"name":"Kabupaten Lebak"},
+          {"value":91.00,"name":"Kabupaten Tangerang"},
+          {"value":85.20,"name":"Kabupaten Serang"},
+          {"value":92.00,"name":"Kota Tangerang"},
+          {"value":88.00,"name":"Kota Cilegon"},
+          {"value":90.51,"name":"Kota Serang"},
+          {"value":93.87,"name":"Kota Tangerang Selatan"}
         ]
       }
     ]
