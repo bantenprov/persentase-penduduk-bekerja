@@ -1,100 +1,624 @@
 [
   {
     "xAxis": {
-      "category": "Angkatan Kerja",
+      "title": "Kabupaten Pandeglang 2013",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
-        "2012",
-        "2013",
-        "2014",
-        "2015",
-        "2016"
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
       ]
     },
     "series": [
       {
         "data": [
-          5.18,
-          5.18,
-          5.34,
-          5.33,
-          5.59
+          470470, 
+          415435
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Angkatan Kerja",
-      "region": "Negara",
-      "name": "Indonesia",
-      "data": [
-        "2012",
-        "2013",
-        "2014",
-        "2015",
-        "2016"
-      ]
-    },
-    "series": [
-      {
-        "data": [
-          119.85,
-          120.17,
-          121.87,
-          122.38,
-          125.44         
-        ]
-      }
-    ]
-  },
-  {
-    "xAxis": {
-      "category": "Penduduk yang Bekerja",
+      "title": "Kabupaten Lebak 2013",
       "region": "Provinsi",
       "name": "Banten",
       "data": [
-        "2012",
-        "2013",
-        "2014",
-        "2015",
-        "2016"
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
       ]
     },
     "series": [
       {
         "data": [
-          4.66,
-          4.69,
-          4.86,
-          4.83,
-          5.09          
+          574909, 
+          535670 
         ]
       }
     ]
   },
   {
     "xAxis": {
-      "category": "Penduduk yang Bekerja",
-      "region": "Negara",
-      "name": "Indonesia",
+      "title": "Kabupaten Tangerang 2013",
+      "region": "Provinsi",
+      "name": "Banten",
       "data": [
-        "2012",
-        "2013",
-        "2014",
-        "2015",
-        "2016"
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
       ]
     },
     "series": [
       {
         "data": [
-          112.5,
-          112.76,
-          114.63,
-          114.82,
-          118.41         
+          1459789, 
+          1291209 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kabupaten Serang 2013",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          594837,
+          516420 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kota Tangerang 2013",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          986960, 
+          904212 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kota Cilegon 2013",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          171640,
+          159638 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kota Serang 2013",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          267178,
+          238097
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kota Tangerang Selatan 2013",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          656013,
+          626945
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kabupaten Pandeglang 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          468502, 
+          435552 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kabupaten Lebak 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          614548, 
+          555725 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kabupaten Tangerang 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1467353, 
+          1343329 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kabupaten Serang 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          622428,
+          530551
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kota Tangerang 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1001174, 
+            922981 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kota Cilegon 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          185307,
+          163380
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kota Serang 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          273412,
+          245976
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kota Tangerang Selatan 2014",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          705321,
+          656498
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kabupaten Pandeglang 2015",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          491031, 
+          440839 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kabupaten Lebak 2015",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          560384, 
+          500175 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kabupaten Tangerang 2015",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          1513501, 
+          1377224 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kabupaten Serang 2015",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          620527,
+          528683
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kota Tangerang 2015",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          992091, 
+          912723  
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kota Cilegon 2015",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          186664,
+          164261
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kota Serang 2015",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          284893,
+          257861
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "Kota Tangerang Selatan 2015",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "Angkatan Kerja",
+        "Penduduk Yang Bekerja"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          685752,
+          643694
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": " TKK Kabupaten Pandeglang",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          88.30,
+          92.97,
+          89.78 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "TKK Kabupaten Lebak",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          93.17,
+          90.43,
+          89.26 
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "TKK Kabupaten Tangerang",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          88.45,
+          91.55,
+          91.00
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "TKK Kabupaten Serang",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          86.82,
+          85.24,
+          85.20
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "TKK Kota Tangerang",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          91.62,
+          92.19,
+          92.00  
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "TKK Kota Cilegon",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          93.01,
+          88.17,
+          88.00
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "TKK Kota Serang",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          89.12,
+          89.97,
+          90.51
+        ]
+      }
+    ]
+  },
+  {
+    "xAxis": {
+      "title": "TKK Kota Tangerang Selatan",
+      "region": "Provinsi",
+      "name": "Banten",
+      "data": [
+        "2013",
+        "2014",
+        "2015"
+      ]
+    },
+    "series": [
+      {
+        "data": [
+          95.57,
+          93.08,
+          93.87
         ]
       }
     ]
